@@ -1,4 +1,4 @@
-bus reservation system.
+Bus reservation system.
 Description:
 This project is a [console-based/web-based/desktop] application designed to manage bus ticket bookings and related operations. It aims to automate the process of reserving and canceling bus tickets, as well as managing bus schedules and passenger information.
 Features:
